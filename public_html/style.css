@@ -1,0 +1,30 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 13, 2019, 8:57:06 AM
+    Author     : Lim Chin Hai
+*/
+
+h1{
+    background-color: #797D7F;
+    font-family: verdana;
+    text-align: center;
+    margin-bottom: 100px;
+    
+}
+body{
+    background-color:#E5E7E9;
+}
+
+p{
+    font-family: arial;
+    font-weight: bold;
+}
+
+.div{
+    text-align: center;
+    
+}
